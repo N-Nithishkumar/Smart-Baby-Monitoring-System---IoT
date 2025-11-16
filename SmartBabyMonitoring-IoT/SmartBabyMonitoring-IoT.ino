@@ -11,7 +11,7 @@
 #include <BlynkSimpleEsp8266.h>
 #include <DHT.h>
 #include <TinyGPS++.h>
-
+#include <SoftwareSerial.h>
 
 // ---------- WiFi + Blynk ----------
 char auth[] = "tFuz8HvZ61QMl4M7m6OMAgQY8bdPrW9E";  // Your Blynk token
