@@ -6,5 +6,5 @@ This project help parents,
 
   2. When baby cries or any movements around baby happens , msg will be recieved to the respective owner.
 
-  3. Even when baby blinks his/her eyes , the notification alert is recieved 
+  3. Even when baby blinks his/her eyes , the notification alert is recieved.
 
