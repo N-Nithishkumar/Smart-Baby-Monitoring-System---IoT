@@ -135,3 +135,18 @@ void checkGPSData() {
     }
   }
 
+  if (gps.location.isValid()) {
+    float lat = gps.location.lat();
+    float lon = gps.location.lng();
+    Serial.print("📍 Location: ");
+    Serial.print(lat, 6);
+    Serial.print(", ");
+    Serial.println(lon, 6);
+
+    String location = String("Lat: ") + String(lat, 6) + " Lon: " + String(lon, 6);
+    Blynk.virtualWrite(V3, location);
+  } else {
+    Serial.println("❌ GPS not fixed yet...");
+  }
+}
+
