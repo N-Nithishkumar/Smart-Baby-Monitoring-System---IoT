@@ -88,5 +88,5 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Nithish**  
+**Nithish Kumar N**  
 Smart Baby Monitoring System – IoT Project
