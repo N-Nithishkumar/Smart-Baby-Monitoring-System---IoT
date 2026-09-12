@@ -1,6 +1,6 @@
 # Smart Baby Monitoring System – IoT 👶📡
 
-The **Smart Baby Monitoring System** is an IoT-based solution designed to help parents continuously monitor their baby’s safety and activities. The system provides real-time alerts to parents whenever specific baby movements or behaviors are detected, ensuring peace of mind even when they are away.
+The **Smart Baby Monitoring System** is an IoT-based solution designed to help parents continuously monitor their baby’s safety and activities. The system provides real-time alerts to parents whenever specific baby movements or behaviors are detected, ensuring peace of mind even when they are away...
 
 ---
 <img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/e3739f44-444f-4dc2-b527-a0103cf28708" />
